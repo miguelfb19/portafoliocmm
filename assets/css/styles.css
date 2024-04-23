@@ -219,3 +219,14 @@ body {
 #buscador .btn{
   margin-top: 15px;
 }
+
+.info {
+  position: fixed;
+  background-color: aliceblue;
+  padding: 3%;
+  top: 0;
+  right: 0;
+  z-index: 100;
+  font-weight: bolder;
+  letter-spacing: 2px;
+}
